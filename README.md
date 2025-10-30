@@ -45,14 +45,6 @@ Com ela, é possível **criar uma conta**, **fazer login**, **adicionar lançame
 
 ---
 
-## 📸 Preview
-
-```markdown
-![Preview do Nikel](./assets/img/preview.png)
-```
-
----
-
 ## 👩‍💻 Autora
 
 Feito com 💜 por **[Alexandra Santos](https://github.com/i-alexandrasantos)**
