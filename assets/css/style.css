@@ -1,0 +1,114 @@
+/* Header and Colors*/
+header{
+    border-bottom: 1px solid #bebcbc;
+    padding: 5px;
+}
+
+.nav-link{
+    color: black;
+}
+
+.dropdown-menu{
+    right: 0;
+    left: unset!important;
+}
+
+.color-primary{
+    color: #4c79d3;
+}
+
+.color-secondary{
+    color: #4e0070;
+}
+
+/* Login */
+#login{
+    background: linear-gradient(120deg, #4c79d3 44.9%, #ffffff 45%) no-repeat fixed;
+}
+
+.login-text{
+    color: #ffffff;
+}
+
+.login-coin-img{
+    margin-bottom: -60px;
+}
+
+.login-btn{
+    background-color: #4e0070;
+    color: #ffffff;
+
+    border-radius: 10px;
+    width: 50%;
+    margin: 0 25%;
+    transition: background .5s;
+}
+
+.login-btn:hover,
+.login-btn:focus{
+    background-color: #4c79d3;
+    color: #ffffff;
+}
+
+.login-account a{
+  text-decoration: none;
+  color: #4e0070;  
+}
+
+/* Home */
+#app{
+    background: linear-gradient(120deg,#ffffff 44.9%, #4c79d3 45%) no-repeat fixed;
+    position: relative;
+}
+
+.app-text-total{
+    gap:10px;
+}
+
+.app-text-total i{
+    font-size: 50px;
+}
+
+.app-box-info{
+    padding: 20px;
+    border-radius: 20px 20px 0 0;
+}
+
+.btn-default{
+    background-color: #4e0070;
+    border-radius: 10px;
+    color: #ffffff;
+}
+
+.btn-secondary,
+.btn-primary{
+    border-radius: 10px;
+}
+
+.btn-lancamento{
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+
+    width: 60px;
+    height: 60px;
+    border-radius: 999px;
+    background-color: #4e0070;
+    color: #ffffff;
+    border: none;
+}
+
+.btn-lancamento:hover{
+    background-color: #ffffff;
+    color:  #4c79d3;
+}
+
+.btn-default:hover{
+    background-color: #4c79d3;
+    color: #ffffff;
+}
+
+/* Lançamentos */
+.table-lancamentos{
+    font-size: 15px;
+}
