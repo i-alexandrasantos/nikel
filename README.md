@@ -47,9 +47,6 @@ Com ela, é possível **criar uma conta**, **fazer login**, **adicionar lançame
 
 ## 📸 Preview
 
-*(Adicione aqui uma imagem ou GIF mostrando o app em funcionamento)*
-Exemplo:
-
 ```markdown
 ![Preview do Nikel](./assets/img/preview.png)
 ```
